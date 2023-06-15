@@ -1,0 +1,24 @@
+Privacy Policy for Rapid QR Scanner
+
+Personal Information
+1.1 Camera Permission: The App requires access to the device's camera to capture images of QR codes. By granting camera permission, you authorize [Your Company Name] to use the camera solely for the purpose of scanning QR codes and providing the associated results within seconds. We do not store or transmit any images captured by the camera.
+
+Non-Personal Information
+2.1 Usage Data: The App not collect non-personal information about Users' interactions with the App. This may include, but is not limited to, the type of device used, operating system, device settings, and other technical information. We use this data to analyze trends, administer the App, and improve user experience.
+
+Security
+3.1 Data Protection: Rapid QR Scanner takes reasonable measures to protect User information from unauthorized access, alteration, disclosure, or destruction. However, please note that no method of transmission over the internet or electronic storage is 100% secure.
+
+Third-Party Services
+4.1 Analytics: The App may use third-party analytics tools to collect and analyze usage information. These tools may utilize cookies, beacons, or similar technologies to gather and track data. The information collected is used to evaluate App performance and provide insights for improvement.
+
+4.2 Third-Party Links: The App may contain links to third-party websites or services. These websites and services have their own privacy policies, and [Your Company Name] is not responsible for their content, practices, or policies. We encourage Users to review the privacy policies of any third-party services they interact with.
+
+Children's Privacy
+5.1 The App is not intended for use by individuals under the age of 13. We do not knowingly collect personal information from children. If you are a parent or guardian and believe that your child has provided personal information through the App, please contact us immediately, and we will take appropriate steps to remove the information from our records.
+
+Changes to This Privacy Policy
+6.1 Rapid QR Scanner reserves the right to update or modify this Privacy Policy at any time. Users will be notified of any material changes via the App or other means. It is recommended to review this policy periodically for any updates.
+
+Contact Us
+7.1 If you have any questions or concerns regarding this Privacy Policy or the App's practices, please contact us at Harshverma.agc@gmail.com
